@@ -1,0 +1,3 @@
+pandahouse
+pandas
+numpy
